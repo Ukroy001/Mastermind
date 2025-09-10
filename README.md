@@ -26,12 +26,14 @@ This project highlights **Python fundamentals**, **game logic design**, and **us
 2. Run the game:
    ```bash
    python game.py
-**Gameplay Tutiorial:**
-
+## 📚 Example Gameplay
+```bash
 Welcome to mastermind, you have 10 tries to guess the code...
 The valid colors are R G Y B O
+
 Guess: R G Y B
 Correct positions: 1 | Incorrect Position: 2
 ...
 You guessed the code in 6 tries 🎉
+
 
